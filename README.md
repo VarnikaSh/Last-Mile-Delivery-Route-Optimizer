@@ -76,7 +76,7 @@ The dashboard will open in your browser automatically.
 - Multi-city delivery simulation
 
 ## Live Demo
-[Click Here to try the app](
+[Click Here to try the app](https://last-mile-delivery-route-optimizer-hbqwxmxfkshb9rnzrhq8da.streamlit.app/)
 
 ## Author
 Varnika Shukla
