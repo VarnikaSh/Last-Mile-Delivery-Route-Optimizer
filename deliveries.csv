@@ -1,0 +1,9 @@
+delivery_id,latitude,longitude,package_weight,priority
+1,28.6139,77.2090,5,High
+2,28.6200,77.2150,3,Low
+3,28.6250,77.2200,7,Medium
+4,28.6300,77.2250,4,High
+5,28.6350,77.2300,6,Medium
+6,28.6400,77.2350,8,High
+7,28.6450,77.2400,2,Low
+8,28.6500,77.2450,5,Medium
